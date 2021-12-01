@@ -1,0 +1,6 @@
+C:\Users\Synyster\source\repos\Soal1a_TestLogikaProgram\Soal1a_TestLogikaProgram\bin\Debug\Soal1a_TestLogikaProgram.exe
+C:\Users\Synyster\source\repos\Soal1a_TestLogikaProgram\Soal1a_TestLogikaProgram\bin\Debug\Soal1a_TestLogikaProgram.pdb
+C:\Users\Synyster\source\repos\Soal1a_TestLogikaProgram\Soal1a_TestLogikaProgram\obj\Debug\Soal1a_TestLogikaProgram.csproj.AssemblyReference.cache
+C:\Users\Synyster\source\repos\Soal1a_TestLogikaProgram\Soal1a_TestLogikaProgram\obj\Debug\Soal1a_TestLogikaProgram.csproj.CoreCompileInputs.cache
+C:\Users\Synyster\source\repos\Soal1a_TestLogikaProgram\Soal1a_TestLogikaProgram\obj\Debug\Soal1a_TestLogikaProgram.exe
+C:\Users\Synyster\source\repos\Soal1a_TestLogikaProgram\Soal1a_TestLogikaProgram\obj\Debug\Soal1a_TestLogikaProgram.pdb

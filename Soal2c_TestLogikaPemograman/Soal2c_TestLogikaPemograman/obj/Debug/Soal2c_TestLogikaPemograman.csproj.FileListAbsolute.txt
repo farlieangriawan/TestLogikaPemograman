@@ -1,0 +1,5 @@
+C:\Users\Synyster\source\repos\Soal2c_TestLogikaPemograman\Soal2c_TestLogikaPemograman\bin\Debug\Soal2c_TestLogikaPemograman.exe
+C:\Users\Synyster\source\repos\Soal2c_TestLogikaPemograman\Soal2c_TestLogikaPemograman\bin\Debug\Soal2c_TestLogikaPemograman.pdb
+C:\Users\Synyster\source\repos\Soal2c_TestLogikaPemograman\Soal2c_TestLogikaPemograman\obj\Debug\Soal2c_TestLogikaPemograman.csproj.CoreCompileInputs.cache
+C:\Users\Synyster\source\repos\Soal2c_TestLogikaPemograman\Soal2c_TestLogikaPemograman\obj\Debug\Soal2c_TestLogikaPemograman.exe
+C:\Users\Synyster\source\repos\Soal2c_TestLogikaPemograman\Soal2c_TestLogikaPemograman\obj\Debug\Soal2c_TestLogikaPemograman.pdb
